@@ -1,0 +1,7 @@
+tt_content.gist < lib.contentElement
+tt_content.gist {
+	templateName = Gist
+	templateRootPaths.0 = EXT:gist/Resources/Private/Templates
+	partialRootPaths.0 = EXT:gist/Resources/Private/Partials
+	layoutRootPaths.0 = EXT:gist/Resources/Private/Templates
+}
