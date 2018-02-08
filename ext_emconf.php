@@ -2,11 +2,11 @@
 
 $EM_CONF[$_EXTKEY] = array(
     'title' => 'gist',
-    'description' => 'Extension to display GitHub gists as content',
+    'description' => 'Extension to display GitHub gists as content elements',
     'category' => 'plugin',
     'author' => 'Christopher Zechendorf',
     'author_email' => 'christopher@zechendorf.com',
-    'state' => 'alpha',
+    'state' => 'stable',
     'internal' => '',
     'uploadfolder' => '1',
     'createDirs' => '',
