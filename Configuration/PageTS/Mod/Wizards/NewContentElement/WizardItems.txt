@@ -1,0 +1,13 @@
+mod.wizards.newContentElement.wizardItems.special {
+    elements {
+        gist {
+            iconIdentifier = gist
+            title = Gist
+            description = Displays GitHub Gist
+            tt_content_defValues {
+                CType = gist
+            }
+        }
+    }
+    show := addToList(gist)
+}
